@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ## 🚀 About Me  
 
-💻 Hi, as a beginner developer, the world of technology fascinates me, and I'm always learning new things. This constant learning motivates me to improve even more.  
+💻 Hi, as a junior developer, the world of technology fascinates me, and I'm always learning new things. This constant learning motivates me to improve even more.  
 🎯 I love creating web and mobile applications, as well as building high-performance APIs.  
 📚 Always eager to learn and grow.  
 ⚡ Fun fact: Dark mode is my default setting—for everything. 🌙😎
